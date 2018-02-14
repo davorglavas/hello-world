@@ -1,4 +1,5 @@
-# hello-world
-My first GitHub repo (I think)
+# Hello world!
 
-This is a test.
+This is my first GitHub repo (I think).
+
+This is just a test.
